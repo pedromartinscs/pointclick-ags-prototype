@@ -53,3 +53,29 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Compiled builds
+Compiled/
+Build/
+Debug/
+Release/
+
+# AGS caches
+AudioCache/
+*.tmp
+
+# Backup files
+*.bak
+*_backup*
+
+# User / local settings
+*.user
+*.prefs
+
+# Sprite backup files
+backup_acsprset.spr
+
+# OS files
+.DS_Store
+Thumbs.db
+
